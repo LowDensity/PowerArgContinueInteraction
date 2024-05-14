@@ -1,0 +1,2 @@
+# PowerArgContinueInteraction
+嘗試用PowerArg製作持續互動效果。
